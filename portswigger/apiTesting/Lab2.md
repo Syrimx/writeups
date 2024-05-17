@@ -5,9 +5,9 @@
 
 ## Discovering API documentation
 
-![Untitled](apiTestingimages/Lab2/1.png)
+![Untitled](images/Lab2/1.png)
 
-![Untitled](apiTesting/images/Lab2/2.png)
+![Second Picture](images/Lab2/2.png)
 
 there doesn’t seem to be a API documentation in place.
 
