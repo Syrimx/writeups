@@ -1,6 +1,6 @@
 # Lab: Finding and exploiting an unused API endpoint
 
-[Lab](https://portswigger.net/web-security/api-testing/lab-exploiting-unused-api-endpoint)
+[Portswigger Lab](https://portswigger.net/web-security/api-testing/lab-exploiting-unused-api-endpoint)
 
 ## Information Gathering
 
