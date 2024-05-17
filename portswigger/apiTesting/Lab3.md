@@ -26,15 +26,17 @@ GET
 
 ![Second Picture](images/Lab3/5.png)
 
-![Second Picture](images/Lab3/6.png)
 
 POST
 
 In this request the Content-Type was changed to application/json and the body was given an empty json dataset.
 
+
+![Second Picture](images/Lab3/6.png)
+
 ![Second Picture](images/Lab3/7.png)
 
-![Second Picture](images/Lab3/8.png)
+
 
 Comparing the response of the GET request with the response of the POST request, indicates that the json dataset within the POST request needs another data structure “chosen_products”.
 
@@ -45,6 +47,8 @@ Now we can build a custom data structure “open_products” inspired by the GET
 ## Exploiting
 
 First lets confirm, that the “chosen_products” data structure does get accepted by the endpoint.
+
+![Second Picture](images/Lab3/8.png)
 
 ![Second Picture](images/Lab3/9.png)
 
