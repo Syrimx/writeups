@@ -30,7 +30,7 @@ GET
 
 POST
 
-In this request the Content-Type was changed to application/json and the body was given am empty json dataset.
+In this request the Content-Type was changed to application/json and the body was given an empty json dataset.
 
 ![Second Picture](images/Lab3/7.png)
 
