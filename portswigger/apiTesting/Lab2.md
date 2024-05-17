@@ -5,9 +5,9 @@
 
 ## Discovering API documentation
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/006f0191-f01c-4731-a492-e6276193f468/6cb3f64c-ed31-4d9c-80d1-ac8d0ca019d2/Untitled.png)
+![Untitled](apiTestingimages/Lab2/1.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/006f0191-f01c-4731-a492-e6276193f468/ee29dfba-6e88-4bd4-8b85-899a4d8211b6/Untitled.png)
+![Untitled](apiTesting/images/Lab2/2.png)
 
 there doesn’t seem to be a API documentation in place.
 
