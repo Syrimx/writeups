@@ -1,5 +1,5 @@
 # Writeups
 
-* Protswigger
+* Portswigger
 * TryHackMe
 * HackTheBox
