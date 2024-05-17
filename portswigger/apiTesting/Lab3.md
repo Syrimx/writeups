@@ -17,11 +17,12 @@ Check Functionalities and take note of the URL paths. If they contain API it mig
 
 ![Second Picture](images/Lab3/3.png)
 
-![Second Picture](images/Lab3/4.png)
 
 ### Examine HTTP Methods
 
 GET
+
+![Second Picture](images/Lab3/4.png)
 
 ![Second Picture](images/Lab3/5.png)
 
