@@ -1,5 +1,7 @@
 # Lab: Exploiting a mass assignment vulnerability
 
+[PortSwigger Lab](https://portswigger.net/web-security/api-testing/lab-exploiting-mass-assignment-vulnerability)
+
 
 ## Information Gathering
 
